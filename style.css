@@ -10,10 +10,12 @@ body {
 
 .main-container {
   background-color: #ffcd9e;
+  height: 70vh;
 }
 
 .footer-container {
   background-color: #282828;
+  height: 30vh;
 }
 
 .container {
